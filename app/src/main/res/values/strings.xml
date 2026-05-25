@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Göteborgaren</string>
+    <string name="home">Hem</string>
+    <string name="departures">Avgångar</string>
+    <string name="weather">Väder</string>
+    <string name="discover">Upptäck</string>
+    <string name="about">Om mig</string>
+</resources>
