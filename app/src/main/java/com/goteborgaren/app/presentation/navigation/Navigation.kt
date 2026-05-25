@@ -70,12 +70,7 @@ fun GoteborgarenNavHost() {
                                     restoreState = true
                                 }
                             },
-                            icon = {
-                                Icon(
-                                    imageVector = item.icon,
-                                    contentDescription = item.label
-                                )
-                            },
+                            icon = { Icon(imageVector = item.icon, contentDescription = item.label) },
                             label = { Text(item.label) }
                         )
                     }
