@@ -8,12 +8,12 @@ plugins {
 
 android {
     namespace = "com.goteborgaren.app"
-    compileSdk = 37
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.goteborgaren.app"
         minSdk = 26
-        targetSdk = 37
+        targetSdk = 35
         versionCode = 3
         versionName = "2.0"
     }
